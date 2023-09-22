@@ -1,0 +1,54 @@
+.repo-detail {
+    display: flex;
+    flex-direction: column;
+    padding: 8px;
+    margin: 16px;
+    align-items: center;
+    border-radius: 8px;
+}
+.repo-detail-title-cont {
+    margin-bottom: 16px;
+
+    .repo-detail-title {
+        font-size: 28px;
+        font-weight: 600;
+        color: #f03c2e;
+        font-family: initial;
+    }
+}
+
+.repo-detail-preview-cont {
+    margin-bottom: 24px;
+
+    .repo-detail-preview {
+        font-size: 20px;
+        font-weight: 600;
+        color: #2e2c2c;
+        font-family: initial;
+    }
+}
+
+.repo-url-cont{
+    margin-bottom: 24px;
+    
+        .repo-url{
+            font-size: 16px;
+            font-weight: 500;
+            color: #002f34;
+            font-family: sans-serif;
+        }
+}
+
+.repo-sub-detail-cont{
+    display: flex;
+    flex-direction: column;
+    .repo-sub-detail{
+        font-size:16px;
+        font-weight: 600;
+    }
+}
+
+.repo-clone-url{
+    margin-top: 24px;
+    color: rgb(211, 68, 92);
+}

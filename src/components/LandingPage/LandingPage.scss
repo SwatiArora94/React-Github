@@ -1,0 +1,17 @@
+.landing-page{
+        padding: 48px 32px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+}
+.landing-page-title{
+        font-size: 28px;
+        font-weight: 700;
+        color: #f03c2e;
+}
+.repos-view{
+    margin-top: 24px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
