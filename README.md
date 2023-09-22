@@ -19,4 +19,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ##### On Clicking repo tile
 
-On Performing above action ypou would land to repo details page
+On Performing above action you would land to repo details page
